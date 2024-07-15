@@ -20,19 +20,6 @@ function Projects() {
           h3="Contact Form"
           p="Sample contact form using Laravel"
         />
-
-        <ProjectCard
-          src={contactlist}
-          link="https://github.com/ScadAmar/contact-list-app.git"
-          h3="Contact Form"
-          p="Sample contact form using Laravel"
-        />
-        <ProjectCard
-          src={contactlist}
-          link="https://github.com/ScadAmar/contact-list-app.git"
-          h3="Contact Form"
-          p="Sample contact form using Laravel"
-        />
       </div>
     </section>
   );
